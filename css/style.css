@@ -50,7 +50,7 @@ img:hover {
 .column {
   display: inline-block;
   column-width: 30%;
-  vertical-align: ;
+  vertical-align: 1px;
 }
 
 /* create your tile classes! we recommend .small .med .large */
