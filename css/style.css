@@ -50,13 +50,13 @@ img:hover {
 .column {
   display: column;
   column-width: 32%;
-  border: black solid #fff;
+  border: solid 5px #fff;
 }
 
 /* create your tile classes! we recommend .small .med .large */
 .small {
-  width: 32%%;
-  height: 32%%;
+  width: 32%;
+  height: 32%;
 }
 
 .med {
